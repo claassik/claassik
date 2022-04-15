@@ -1,9 +1,9 @@
 $engine: 3
 $onesync: legacy
-name: PlumeESXLegacy
+name: ESXLegacy
 version: 3.3.0
-author: Tabarra & SaltySea
-description: A full featured and highly configurable yet lightweight ESX Legacy base that can be easily extended. 
+author: Claassik
+description: Claassik es_extended
 
 tasks:
   # Download default CFX resources
